@@ -10,3 +10,4 @@ In no specific order
 * Purchase a cheap domain name and point domain to FE static site bucket
 * Setup up more advance pipeline for rolling deployments / trunk-based-development 
 * Do the whole docker thing on local and move part of CI/CD
+* Setup site SSL with Let's Encrypt
