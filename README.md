@@ -1,5 +1,11 @@
-# Fullstack application 
+# Production ready SaaS product
 
-Frontend(/frontend) is an exemple real world application built with React + Redux
-
-Backend(/backend) is an example real world backend API built with Golang + Fiber + Gorm + Swagger
+## TODO
+In no specific
+* Setup linting 
+* Setup pre-commit hooks to run linting and tests pass before commits
+* Setup set up github actions as pipelines to deploy to AWS
+* Setup AWS as cloud host
+* Purchase a cheap domain name and point domain to FE static site bucket
+* Setup up more advance pipeline for rolling deployments / trunk-based-development 
+* Do the whole docker thing on local and move part of CI/CD
